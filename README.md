@@ -1,4 +1,36 @@
+# 💫 Hi 👋, I'm Dhruvitra
 
+Aspiring Data Scientist | Python & ML Enthusiast | Tech Learner
+
+📩 Email: dhruviktra.rajput.1379@gmail.com
+
+Feel free to contact me for projects, collaboration, or learning discussions!
+
+🚀 About Me
+
+📚 I’m currently studying: Data Science & Machine Learning
+
+🔭 I’m working on: Python Projects, Data Analysis, and ML Models
+
+🌱 I’m learning:
+
+Python
+
+Pandas
+
+NumPy
+
+Machine Learning
+
+SQL
+
+👯 I’m looking to collaborate on: Beginner-friendly Data Science and ML projects
+
+🤝 I need help with: Model optimization, datasets, and project ideas
+
+💬 Ask me about: Python, Data Analysis, ML basics, Visualizations
+
+⚡ Fun fact: Data always tells a story — you just have to find it!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvitra-vanol-849a51321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruviktra.rajput.1379@gmail.com) 
 
